@@ -2,7 +2,7 @@
 
 Testing poolparty web applicqation using Eclipse and Junit.
 
-
+git status
 ls
 git add .
 ls
