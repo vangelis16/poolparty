@@ -1,6 +1,6 @@
 # poolparty
 
-Testing poolparty web application using Eclipse and Junit.
+Testing poolparty web application using Eclipse, Java and JUnit.
 
 git status
 ls
