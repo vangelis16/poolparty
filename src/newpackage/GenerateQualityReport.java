@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-class GenerateQualityReport extends OpenBrowserAndLoginToPoolParty {
+public class GenerateQualityReport extends OpenBrowserAndLoginToPoolParty {
 	
 
 	@Test
